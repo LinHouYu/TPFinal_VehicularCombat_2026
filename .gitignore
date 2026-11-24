@@ -1,0 +1,60 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Asset meta data should be kept; ignore cache & crash reports
+/Assets/AssetStoreTools*
+/[Aa]ssets/AddressableAssetsData/*/*.bin*
+/[Aa]ssets/StreamingAssets/aa.meta
+/[Aa]ssets/StreamingAssets/aa/*
+
+# IDE & Editor files
+/.vs/
+/.vscode/
+/.idea/
+/.gradle/
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity3D generated meta files / crash logs
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+crashlytics-build.properties
+
+# Local agent tooling & release packages (executables go to GitHub Releases, not Git)
+/.agents/
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.zip
+*.7z
+
+# OS files
+.DS_Store
+Thumbs.db
